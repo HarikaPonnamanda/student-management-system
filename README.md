@@ -26,7 +26,7 @@ It demonstrates the use of core Java concepts such as Object-Oriented Programmin
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://https://github.com/HarikaPonnamanda/student-management-system.git
 
 2. Navigate to the project folder:
    cd student-management-system
